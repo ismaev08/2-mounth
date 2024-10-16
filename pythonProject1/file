@@ -1,0 +1,5 @@
+{
+min_number = 0
+max_number = 100
+attempt = 5
+capital = 100
